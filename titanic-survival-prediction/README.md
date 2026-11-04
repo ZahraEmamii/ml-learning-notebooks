@@ -17,3 +17,11 @@ A Logistic Regression model is trained using passenger information such as:
 - Port of embarkation
 
 The model is evaluated using a validation set, and the final predictions are saved in a CSV file for Kaggle submission.
+
+
+## Dataset
+
+The dataset is provided by the Kaggle Titanic Competition.
+
+You can download the dataset from:
+[Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/data)
